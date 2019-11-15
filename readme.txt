@@ -7,3 +7,5 @@ git init 3
 git init 4
 
 git modify
+
+git modify 2
